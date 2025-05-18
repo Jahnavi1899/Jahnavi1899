@@ -95,15 +95,13 @@ When I'm not in code mode, you'll probably find me watching movies, jamming out 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi1899&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- ---
+ ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects -->
 
-- [**Project Name**](https://github.com/Jahnavi1899/project-name): Short description of this project.
+<!-- - [**Project Name**](https://github.com/Jahnavi1899/project-name): Short description of this project.
 - [**Another Project**](https://github.com/Jahnavi1899/another-project): Short description of another project.
-<!-- Add more projects --> -->
-
----
+<!-- Add more projects --> 
 
 ## 📫 Let's Connect!
 
