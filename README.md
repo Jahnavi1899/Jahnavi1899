@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Jahnavi</h1>
-<h3 align="center">Software Developer | AI Enthusiast | Open to Opportunities</h3>
+<h3 align="center">Software Developer | AI Enthusiast | Open to Full-time Opportunities</h3>
 
 <!-- Social Links -->
 <p align="center">
@@ -14,10 +14,10 @@
 ## 👩‍💻 About Me
 
 - 🌱 Passionate about Software Development and Artificial Intelligence  
-- 🔭 Currently working on: **[Project Name/Area]**
-- 🤖 Exploring: Machine Learning, Deep Learning, NLP
-- 💬 Ask me about: Python, AI, Data Science, and cool tech stuff!
-- 📫 How to reach me: your.email@example.com
+<!-- - 🔭 Currently working on: **[Project Name/Area]** -->
+- 🤖 Exploring: Distributed Systems and LLMs
+- 💬 Ask me about: Python, AI, , and cool tech stuff!
+- 📫 How to reach me: panchavati.jahnavi@gmail.com
 - 🌍 Portfolio: [your-portfolio.com](https://jahnavi-panchavati-portfolio.netlify.app/) <!-- Optional -->
 
 ---
@@ -38,34 +38,34 @@
 ## 💼 Work Experience
 
 **Software Engineer**  
-*Company Name* | YYYY – Present  
+*Accenture* | 2021 – 2023  
 - Developed scalable AI models for [project/feature]
 - Improved performance of [system/process] by X%
 - Collaborated in a team to develop [product/tool]
 
-**AI Intern**  
-*Another Company* | YYYY – YYYY  
+**Data Science Intern**  
+*Pivotchain Solutions* | 2021 – 2021  
 - Built [tool/feature] using Python and TensorFlow
 - Automated [process/task] and improved efficiency
 
 <!-- Add more experience as needed -->
 
----
+<!-- --- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jahnavi1899&show_icons=true&theme=radical" alt="Jahnavi1899's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi1899&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
 
 - [**Project Name**](https://github.com/Jahnavi1899/project-name): Short description of this project.
 - [**Another Project**](https://github.com/Jahnavi1899/another-project): Short description of another project.
-<!-- Add more projects -->
+<!-- Add more projects --> -->
 
 ---
 
@@ -78,11 +78,11 @@
 ---
 
 <!-- Fun or Personal Section (Optional) -->
-<details>
+<!-- <details>
   <summary>✨ Fun Facts & Interests</summary>
   <ul>
     <li>I love solving puzzles and brain teasers 🧩</li>
     <li>Coffee and code is my favorite combo ☕💻</li>
     <li>Always up for a hackathon!</li>
   </ul>
-</details>
+</details> -->
