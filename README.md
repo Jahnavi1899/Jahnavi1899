@@ -13,13 +13,9 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Passionate about Software Development and Artificial Intelligence  
-<!-- - 🔭 Currently working on: **[Project Name/Area]** -->
-- 🤖 Exploring: Distributed Systems and LLMs
-- 💬 Ask me about: Python, AI, , and cool tech stuff!
-- 📫 How to reach me: panchavati.jahnavi@gmail.com
-- 🌍 Portfolio: [your-portfolio.com](https://jahnavi-panchavati-portfolio.netlify.app/) <!-- Optional -->
+I’m Jahnavi, a recent Computer Science grad from North Carolina State University, passionate about building large-scale software solutions powered by AI. I love diving into new technologies and bringing my ideas to life through hands-on projects. Right now, I’m exploring the worlds of distributed systems and large language models, while also leveling up my skills with the Google Cloud Engineering certification.
 
+When I’m not in code mode, you’ll probably find me watching movies, jamming out to music, or out on the field playing sports. I believe mixing curiosity for tech with everyday adventures keeps life exciting and fuels my creative spark—there’s always something new to learn, inside and outside the world of software!
 ---
 
 ## 🛠️ Skills & Tools
