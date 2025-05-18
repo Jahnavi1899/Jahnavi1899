@@ -21,8 +21,6 @@ When I'm not in code mode, you'll probably find me watching movies, jamming out 
 
 ## 🛠️ Skills & Tools
 
-## 🛠️ Technical Skills
-
 ### 📝 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -67,16 +65,24 @@ When I'm not in code mode, you'll probably find me watching movies, jamming out 
 
 ## 💼 Work Experience
 
+**Research Assistant**  
+*North Carolina State University, USA* (Jan 2025 – May 2025)  
+- Developed a Python backend pipeline for analyzing developer screen images, leveraging OpenAI GPT-4 for automated tool detection.  
+- Integrated advanced object detection to generate bounding boxes and annotate tools within images.  
+- Demonstrated expertise in backend processing, API integration, and applying AI models to real-world developer workflows.
+
 **Software Engineer**  
-*Accenture* | 2021 – 2023  
-- Developed scalable AI models for [project/feature]
-- Improved performance of [system/process] by X%
-- Collaborated in a team to develop [product/tool]
+*Accenture Solutions, India* (Jun 2021 – Jul 2023)  
+- Designed and maintained robust RESTful APIs with C# and .NET, in an agile, production-grade environment.
+- Optimized Angular-based UIs for accessibility and responsiveness, resulting in a 20% reduction in support tickets
+- Enhanced system responsiveness by architecting message-driven integrations with RabbitMQ.  
 
 **Data Science Intern**  
-*Pivotchain Solutions* | 2021 – 2021  
-- Built [tool/feature] using Python and TensorFlow
-- Automated [process/task] and improved efficiency
+*Pivotchain Solutions, India* (Jan 2021 – Jun 2021)  
+- Integrated deep learning models using TensorFlow and OpenCV for computer vision tasks, achieving 90% precision in color detection.  
+- Automated large-scale data collection and preprocessing, streamlining pipelines and improving model performance.  
+- Gained hands-on experience in end-to-end ML pipelines, from data preparation to model deployment.
+
 
 <!-- Add more experience as needed -->
 
