@@ -34,7 +34,6 @@ When I'm not in code mode, you'll probably find me watching movies, jamming out 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Databases & Tools  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -73,13 +72,13 @@ When I'm not in code mode, you'll probably find me watching movies, jamming out 
 
 **Software Engineer**  
 *Accenture Solutions, India* (Jun 2021 – Jul 2023)  
-- Designed and maintained robust RESTful APIs with C# and .NET, in an agile, production-grade environment.
-- Optimized Angular-based UIs for accessibility and responsiveness, resulting in a 20% reduction in support tickets
-- Enhanced system responsiveness by architecting message-driven integrations with RabbitMQ.  
+- Designed and maintained robust REST APIs with C# and .NET, in an agile, production-grade environment.
+- Optimized Angular-based UIs for accessibility and responsiveness, resulting in a reduction in support tickets
+- Enhanced system responsiveness by architecting event-driven integrations with RabbitMQ.  
 
 **Data Science Intern**  
 *Pivotchain Solutions, India* (Jan 2021 – Jun 2021)  
-- Integrated deep learning models using TensorFlow and OpenCV for computer vision tasks, achieving 90% precision in color detection.  
+- Integrated deep learning models using TensorFlow and OpenCV for computer vision tasks, achieving 85% precision in color detection.  
 - Automated large-scale data collection and preprocessing, streamlining pipelines and improving model performance.  
 - Gained hands-on experience in end-to-end ML pipelines, from data preparation to model deployment.
 
